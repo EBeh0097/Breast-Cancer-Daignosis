@@ -17,6 +17,28 @@ Key concepts demonstrated include:
 
 ---
 
+## #Data Source
+
+The dataset used in the notebook is the Breast Cancer Wisconsin Dataset from Scikit-learn.
+
+The notebook imports the dataset using:
+
+from sklearn.datasets import load_breast_cancer
+
+and loads it with:
+
+breast_cancer_data = load_breast_cancer(as_frame=True)
+About the Dataset
+
+- The Breast Cancer Wisconsin Dataset is a widely used healthcare classification dataset for predicting whether a tumor is:
+  Malignant (cancerous)
+  Benign (non-cancerous)
+
+  It contains:
+  Diagnostic medical features extracted from breast mass images
+  Numerical predictor variables such as radius, texture, smoothness, compactness, symmetry, etc.
+  Binary classification labels
+
 ## Technical Skills Demonstrated
 
 ### Machine Learning & AI Engineering
