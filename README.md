@@ -120,11 +120,11 @@ ROC-AUC: 0.9967
 
 CatBoost also performed extremely well and produced highly competitive classification performance.
 
-Overall Findings
+### Overall Findings
 
 The project concluded that all gradient boosted models performed exceptionally well on the breast cancer classification task.
 
-Key Insights
+### Key Insights
 Ensemble learning significantly improves predictive accuracy
 Gradient boosting models are highly effective for structured healthcare datasets
 ROC-AUC scores near 1.0 indicate excellent class discrimination
@@ -134,7 +134,7 @@ The notebook specifically noted that:
 
 “Proceeding with any of the models would give great results in implementation.”
 
-Technical Skills Demonstrated
+### Technical Skills Demonstrated
 
 This project demonstrates hands-on experience with:
 
@@ -148,13 +148,6 @@ Model Evaluation Metrics
 Python ML Pipelines
 Ensemble Learning
 Data Preprocessing & Validation
-
-These are highly relevant skills for:
-
-Health Data Scientist roles
-Machine Learning Engineer positions
-Healthcare AI Engineer opportunities
-Predictive Analytics/Data Science roles
 
 ## Why This Project Matters
 
