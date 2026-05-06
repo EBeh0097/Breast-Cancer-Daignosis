@@ -36,3 +36,8 @@ Roc-AUC of esemble models: <br/>
  ```diff
 - text in red
 + text in green
+
+## Author
+
+Emmanuel Ebeh  
+Health Data Scientist | AI Engineer | Generative AI Researcher
